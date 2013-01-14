@@ -1,7 +1,7 @@
 Dargon Social Media Project (Beta 0.3) is a devision of DARGON/Tera-Alpha Media
 
     Any and all Dargon Social Media Projects and/or program/projects
-    Copyright (C) Current date to "The end of time"  <Dargon Social Media
+    Copyright (C) Current date to "The end of time"  Dargon Social Media
     Project (Beta 0.3)
 
     This program/project is free: you can redistribute it and/or modify
